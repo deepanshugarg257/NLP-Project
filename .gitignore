@@ -1,0 +1,5 @@
+__pycache__/
+Results/
+dataset/
+Datasets/
+*.pyc
